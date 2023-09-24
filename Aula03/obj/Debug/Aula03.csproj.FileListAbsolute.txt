@@ -1,0 +1,10 @@
+C:\Users\Manager\Desktop\Aula03\Aula03\bin\Debug\Aula03.exe.config
+C:\Users\Manager\Desktop\Aula03\Aula03\bin\Debug\Aula03.exe
+C:\Users\Manager\Desktop\Aula03\Aula03\bin\Debug\Aula03.pdb
+C:\Users\Manager\Desktop\Aula03\Aula03\obj\Debug\Aula03.csproj.AssemblyReference.cache
+C:\Users\Manager\Desktop\Aula03\Aula03\obj\Debug\Aula03.Form1.resources
+C:\Users\Manager\Desktop\Aula03\Aula03\obj\Debug\Aula03.Properties.Resources.resources
+C:\Users\Manager\Desktop\Aula03\Aula03\obj\Debug\Aula03.csproj.GenerateResource.cache
+C:\Users\Manager\Desktop\Aula03\Aula03\obj\Debug\Aula03.csproj.CoreCompileInputs.cache
+C:\Users\Manager\Desktop\Aula03\Aula03\obj\Debug\Aula03.exe
+C:\Users\Manager\Desktop\Aula03\Aula03\obj\Debug\Aula03.pdb
